@@ -25,6 +25,9 @@ cpal = sns.color_palette("mycolormap", n_colors=4)
 greenn = ["#006837", "#31a354", "#78c679","#c2e699", "#ffffcc"  ]
           
 purble = ['#7a0177', '#c51b8a','#f768a1', '#fbb4b9','#feebe2']
+
+winter_bird = ["B6B4DE","79877B","522E38","B54D99","1F2125","A49DBB","5B6562"]
+
           
 def hex_to_RGB(hex):
   ''' "#FFFFFF" -> [255,255,255] '''
